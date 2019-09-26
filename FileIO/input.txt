@@ -1,1 +1,3 @@
-This is the input to read
+Here is some input text to read into our output file
+New line
+New line
