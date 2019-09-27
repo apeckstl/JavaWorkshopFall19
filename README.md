@@ -4,7 +4,7 @@ Here you will find all of the code for the examples used during the workshop. If
 ## Resources as we go ##
 This article contains many of the confusing and vague errors you will get as you start programming in Java and how to solve them: https://dzone.com/articles/50-common-java-errors-and-how-to-avoid-them-part-1
 
-Download the JDK (You will need to sign up for an Oracle account: https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Download the JDK (You will need to sign up for an Oracle account: https://bit.ly/2kqg3vp
 
 These are the most straightforward instructions for installing: https://docs.oracle.com/en/java/javase/13/install/overview-jdk-installation.html
 
