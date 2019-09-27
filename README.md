@@ -8,6 +8,9 @@ Download the JDK (You will need to sign up for an Oracle account: https://www.or
 
 These are the most straightforward instructions for installing: https://docs.oracle.com/en/java/javase/13/install/overview-jdk-installation.html
 
+More detailed instructions for installing: https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html
+(use if you don't know how to set your environment variables on Windows!)
+
 More advanced File I/O: https://www.mkyong.com/java/how-to-read-file-from-java-bufferedreader-example/
 
 More array practice: https://www.w3resource.com/java-exercises/array/index.php
