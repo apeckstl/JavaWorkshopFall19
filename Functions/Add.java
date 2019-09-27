@@ -8,12 +8,12 @@ public class Add {
 		System.out.println(c);
 	}
 
-	public int add(int first, int second) {
+	public static int add(int first, int second) {
 		int result = first + second;
 		return result;
 	}
 
-	public void shout(String words) {
+	public static void shout(String words) {
 		System.out.println(words + "!");
 	}
 }
